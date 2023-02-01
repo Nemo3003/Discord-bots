@@ -1,0 +1,9 @@
+{
+  "discord": {
+    "TOKEN": "MTA2OTc3ODYxNjYyMTIwNzY0Mg.Gl43hB.jtNss8LriJM-rhNYuJgvRy5fF7ExNXuVX0vb2U",
+    "appId": "1069778616621207642",
+    "appSecret": "1aIATafPzy5LPV45r5Q5wfrxHmQFzp7C",
+    "CommandPrefix": "/",
+    "URL": "https://discord.com/api/oauth2/authorize?client_id=1069778616621207642&permissions=8&scope=bot"
+  }
+}
