@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TutorialBot": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\Personal Projects\\Quark\\Discord-bots\\TutorialBot\\TutorialBot"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+E:\Personal Projects\Quark\Discord-bots\TutorialBot\TutorialBot\obj\Debug\net7.0\TutorialBot.csproj.AssemblyReference.cache
+E:\Personal Projects\Quark\Discord-bots\TutorialBot\TutorialBot\obj\Debug\net7.0\TutorialBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Projects\Quark\Discord-bots\TutorialBot\TutorialBot\obj\Debug\net7.0\TutorialBot.AssemblyInfoInputs.cache
+E:\Personal Projects\Quark\Discord-bots\TutorialBot\TutorialBot\obj\Debug\net7.0\TutorialBot.AssemblyInfo.cs
+E:\Personal Projects\Quark\Discord-bots\TutorialBot\TutorialBot\obj\Debug\net7.0\TutorialBot.csproj.CoreCompileInputs.cache
