@@ -109,9 +109,9 @@ namespace newBot
 
                 //SET ROLES OF THE CHANNEL LOG
                 //bot role (higher) - AllowAll (show and send messages) 
-                await newChannel.AddPermissionOverwriteAsync(guild.GetRole(1070350835294421015), OverwritePermissions.AllowAll(newChannel));
+                await newChannel.AddPermissionOverwriteAsync(guild.GetRole(FirstRole), OverwritePermissions.AllowAll(newChannel));
                 //admins role - "modify" to set single actions role - in this case, to show channel but with sendMessages: PermValue.Deny (can't send messages)
-                await newChannel.AddPermissionOverwriteAsync(guild.GetRole(1070357737868886016), OverwritePermissions.DenyAll(newChannel).Modify(viewChannel: PermValue.Allow, readMessageHistory: PermValue.Allow, sendMessages: PermValue.Deny));
+                await newChannel.AddPermissionOverwriteAsync(guild.GetRole(SecondRole), OverwritePermissions.DenyAll(newChannel).Modify(viewChannel: PermValue.Allow, readMessageHistory: PermValue.Allow, sendMessages: PermValue.Deny));
                 //users role - users can't see the log channel - DENY ALL
                 await newChannel.AddPermissionOverwriteAsync(guild.EveryoneRole, OverwritePermissions.DenyAll(newChannel));
 
